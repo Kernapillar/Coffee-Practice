@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  year: 1
+  caffine_content: 1.5
+  caffine_percentage: 1.5
+
+two:
+  name: MyString
+  year: 1
+  caffine_content: 1.5
+  caffine_percentage: 1.5
