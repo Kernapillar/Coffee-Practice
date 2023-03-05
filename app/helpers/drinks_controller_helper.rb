@@ -1,0 +1,2 @@
+module DrinksControllerHelper
+end
